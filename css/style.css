@@ -58,6 +58,9 @@ header {
   border: 5px solid #fff;
   margin: 0 0 10px 0;
 }
+.orange-box:last-child {
+  margin: 0px;
+}
 .yellow-box {
   height: 100px;
   width: 400px;
